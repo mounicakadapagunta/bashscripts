@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Check the command-line argument value is given or not
 if [ $# -gt 0 ]; then
     # Assign the filename from comand-line argument value
